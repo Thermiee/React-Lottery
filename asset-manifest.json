@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Lottery/static/css/main.6065f504.chunk.css",
+    "main.js": "/React-Lottery/static/js/main.a949da2e.chunk.js",
+    "main.js.map": "/React-Lottery/static/js/main.a949da2e.chunk.js.map",
+    "runtime-main.js": "/React-Lottery/static/js/runtime-main.06ac39a3.js",
+    "runtime-main.js.map": "/React-Lottery/static/js/runtime-main.06ac39a3.js.map",
+    "static/js/2.b54fb3e3.chunk.js": "/React-Lottery/static/js/2.b54fb3e3.chunk.js",
+    "static/js/2.b54fb3e3.chunk.js.map": "/React-Lottery/static/js/2.b54fb3e3.chunk.js.map",
+    "index.html": "/React-Lottery/index.html",
+    "precache-manifest.10410cfbac1c143eb337b0afcb2669ad.js": "/React-Lottery/precache-manifest.10410cfbac1c143eb337b0afcb2669ad.js",
+    "service-worker.js": "/React-Lottery/service-worker.js",
+    "static/css/main.6065f504.chunk.css.map": "/React-Lottery/static/css/main.6065f504.chunk.css.map",
+    "static/js/2.b54fb3e3.chunk.js.LICENSE.txt": "/React-Lottery/static/js/2.b54fb3e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06ac39a3.js",
+    "static/js/2.b54fb3e3.chunk.js",
+    "static/css/main.6065f504.chunk.css",
+    "static/js/main.a949da2e.chunk.js"
+  ]
+}
